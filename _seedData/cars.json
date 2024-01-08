@@ -1,0 +1,39 @@
+[
+{
+    "_id": "508f191e810c19729de860ea",
+    "title": "Audi A3",
+    "category": "Hatchback",
+    "price": 16950,
+    "onSale": false,
+    "sale_price": 0,
+    "main_image": "",
+    "images":[],
+    "description": "Reversing Camera",
+    "short_desc": "2014"
+},
+
+{
+    "_id": "509f191e810c19729de860ea",
+    "title": "Mazda 6",
+    "category": "Sedan",
+    "price": 5000,
+    "onSale": false,
+    "sale_price": 0,
+    "main_image": "",
+    "images":[],
+    "description": "Leather Trim",
+    "short_desc": "2005"
+},
+{
+    "_id": "509e191e810c19729de860ea",
+    "title": "Volkswagen T5 SWB TDI",
+    "category": "Van",
+    "price": 14000,
+    "onSale": false,
+    "sale_price": 0,
+    "main_image": "",
+    "images":[],
+    "description": "Two Wheel Drive",
+    "short_desc": "2008"
+}
+]
